@@ -7,11 +7,8 @@ public class Solution {
         int b = scan.nextInt();                 
         int c = scan.nextInt();                     
 
-        // Complete this line
-        int sum = a + b + c; // Calculate the sum
-        int product = a * b * c; // Calculate the product
-
-        // Output results
+        int sum = a + b + c;
+        int product = a * b * c; 
         System.out.println("Sum: " + sum);
         System.out.println("Product: " + product);
     } 
